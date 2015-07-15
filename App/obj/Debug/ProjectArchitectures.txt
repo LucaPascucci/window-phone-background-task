@@ -1,0 +1,2 @@
+c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\App.csproj;neutral
+c:\users\lucapascu\documents\visual studio 2013\Projects\App\MyTask\MyTask.csproj;neutral
