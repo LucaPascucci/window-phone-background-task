@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Button x:Name="BtnRegistra" Content="Registra Task" Click="RegistraTask_Click" HorizontalAlignment="Stretch" Margin="10,0" VerticalAlignment="Bottom"/>
+        <Button x:Name="BtnRegistra" Content="Registra Task" Click="RegistraTask_Click" 
+                HorizontalAlignment="Stretch" Margin="10,0" VerticalAlignment="Bottom"/>
     </Grid>
 </Page>

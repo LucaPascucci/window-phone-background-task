@@ -7,55 +7,55 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>3edde57f-7f97-4e14-bcab-37a22d1704bc</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\bin\Debug\App.exe">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\bin\Debug\App.exe">
       <PackagePath>App.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\Users\lucapascu\documents\visual studio 2013\Projects\App\MyTask\bin\Debug\MyTask.winmd">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\MyTask\bin\Debug\MyTask.winmd">
       <PackagePath>MyTask.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\Assets\Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\Assets\SmallLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\Assets\SplashScreen.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\Assets\Square71x71Logo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\Assets\StoreLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\Assets\StoreLogo.scale-240.png">
       <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\Assets\WideLogo.scale-240.png">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\Assets\WideLogo.scale-240.png">
       <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\bin\Debug\App.xr.xml">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\bin\Debug\App.xr.xml">
       <PackagePath>App.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\lucapascu\documents\visual studio 2013\Projects\App\App\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\LucaPascu\Documents\Visual Studio 2013\Projects\App\App\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
